@@ -8,26 +8,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
-global.ytname = "YT: phantom-hacks01"
+global.ownernomer = "994407122025"
+global.ownername = "*RAJ-WA-OFC*"
+global.ytname = "IG: i_am_your_raj_kumar"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
-global.botname = 'xbug bot' //name of the bot
+global.ownernumber = '994407122025'  //creator number
+global.ownername = 'RAJ-WA-OFC' //owner name
+global.botname = 'RAJ-BOT-OFC' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Phantom'
-global.author = 'Hallo\n\nContact: 2348108395270'
+global.packname = 'Sticker By Raj Kumar'
+global.author = 'Hallo\n\nContact: +994407122025'
 
 //console view/theme
 global.themeemoji = '😡'
 global.wm = "Phantom"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
+global.link = 'https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -35,11 +35,11 @@ global.prefa = ['','!','.','#','&']
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = truee //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
